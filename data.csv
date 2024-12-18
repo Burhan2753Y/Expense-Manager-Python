@@ -1,0 +1,18 @@
+id,date,desc,amount,category,type
+1,12-01-2024,Burhanuddin,100,Salary,Income
+2,13-01-2024,Husaid,100,Business,Income
+3,14-01-2024,Soham,100,Education,Expense
+4,2024-06-29 14:48:06.550380,New,1000,Travel,Expense
+5,2024-06-29 14:51:25.367218,New,1000,Travel,Expense
+6,2024-06-29,New,1000,Travel,Expense
+7,2024-06-29,Salary,500,Salary,Income
+8,2024-06-29,Burhanuddin,5000,Gifts,Income
+9,2024-06-29,Waterpark,1200,Entertainement,Expense
+10,2024-06-29,Tea,100,Food,Expense
+11,2024-06-29,Snacks,100,Food,Expense
+12,2024-06-29,Business Income,600,Business Income,Income
+13,2024-07-01,Income,10000,Salary,Income
+14,2024-07-02,Income,100,Salary,Income
+15,2024-07-02,Expense,100,Food,Expense
+16,2024-07-02,Expense,5200,Water Bill,Expense
+17,2024-07-02,Business,2000,Business Income,Income
